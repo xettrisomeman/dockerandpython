@@ -6,7 +6,7 @@
 docker build -t <app_name> .
 ```
 
-## After building the it will execute the code inside of Dockerfile
+## After building the app it will execute the code inside of Dockerfile
 
 ## Afer your app is built , run following commands
 
